@@ -1,0 +1,7 @@
+{
+  "name": "@zkverse/zk-circuits",
+  "version": "0.1.0",
+  "description": "Placeholder zk-SNARK circuits for zkVerse Engine (conceptual only).",
+  "author": "zkVerse Engine",
+  "license": "MIT"
+}
