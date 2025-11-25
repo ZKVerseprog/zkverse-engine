@@ -1,0 +1,12 @@
+[programs.localnet]
+zkverse_demo = "ZkVerSeDemo111111111111111111111111111111111"
+
+[registry]
+url = "https://api.apr.dev"
+
+[provider]
+cluster = "localnet"
+wallet = "~/.config/solana/id.json"
+
+[scripts]
+test = "node tests/zkverse-demo.js"
