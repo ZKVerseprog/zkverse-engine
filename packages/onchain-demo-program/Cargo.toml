@@ -1,0 +1,11 @@
+[workspace]
+members = ["programs/zkverse_demo"]
+
+[profile.release]
+overflow-checks = true
+lto = "fat"
+codegen-units = 1
+opt-level = "s"
+debug = false
+panic = "abort"
+incremental = false
