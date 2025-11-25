@@ -1,0 +1,13 @@
+{
+  "name": "@zkverse/offchain-watcher",
+  "version": "0.1.0",
+  "description": "Off-chain watcher / worker for zkVerse Engine.",
+  "author": "zkVerse Engine",
+  "license": "MIT",
+  "type": "module",
+  "main": "src/index.js",
+  "dependencies": {
+    "@zkverse/engine-sdk": "0.1.0",
+    "@zkverse/core": "0.1.0"
+  }
+}
