@@ -1,0 +1,16 @@
+{
+  "name": "zkverse-engine",
+  "version": "0.1.0",
+  "private": true,
+  "description": "zkVerse Engine – full stack monorepo (SDK, core logic, off-chain watcher, on-chain demo program, and zk circuits).",
+  "workspaces": [
+    "packages/*"
+  ],
+  "scripts": {
+    "lint": "echo \"No lint configured yet\"",
+    "test": "echo \"No tests configured yet\"",
+    "build": "echo \"Nothing to build at root\"",
+    "dev:watcher": "node packages/offchain-watcher/src/index.js"
+  },
+  "license": "MIT"
+}
