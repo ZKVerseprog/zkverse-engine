@@ -1,0 +1,9 @@
+{
+  "name": "@zkverse/core",
+  "version": "0.1.0",
+  "description": "Core abstractions and helpers for zkVerse Engine (notes, routing, metadata).",
+  "author": "zkVerse Engine",
+  "license": "MIT",
+  "type": "module",
+  "main": "src/index.js"
+}
